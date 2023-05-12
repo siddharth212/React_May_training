@@ -1,0 +1,5 @@
+1- npm create vite@latest mayorgwide -- help to deploy react js application in the browser.
+
+npm create vite@latest projectname.
+
+Function name always starts with capital
